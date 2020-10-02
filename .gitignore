@@ -11,3 +11,5 @@ storybook-static
 
 # testing
 /coverage
+
+/dist
